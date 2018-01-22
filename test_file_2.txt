@@ -1,2 +1,4 @@
 Hello this is test file 2
+- this file has been modified on the command line
+
 
